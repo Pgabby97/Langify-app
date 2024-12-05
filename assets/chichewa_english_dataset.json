@@ -1,0 +1,524 @@
+[
+    {
+        "Chichewa Phrase": "Moni",
+        "English Meaning": "Hello"
+    },
+    {
+        "Chichewa Phrase": "Zikomo",
+        "English Meaning": "Thank you"
+    },
+    {
+        "Chichewa Phrase": "Chonde",
+        "English Meaning": "Please"
+    },
+    {
+        "Chichewa Phrase": "Pepani",
+        "English Meaning": "Sorry"
+    },
+    {
+        "Chichewa Phrase": "Eya",
+        "English Meaning": "Yes"
+    },
+    {
+        "Chichewa Phrase": "Ayi",
+        "English Meaning": "No"
+    },
+    {
+        "Chichewa Phrase": "Dzina",
+        "English Meaning": "Name"
+    },
+    {
+        "Chichewa Phrase": "Moyo",
+        "English Meaning": "Life"
+    },
+    {
+        "Chichewa Phrase": "Mvula",
+        "English Meaning": "Rain"
+    },
+    {
+        "Chichewa Phrase": "Njoka",
+        "English Meaning": "Snake"
+    },
+    {
+        "Chichewa Phrase": "Nkhani",
+        "English Meaning": "News"
+    },
+    {
+        "Chichewa Phrase": "Chakudya",
+        "English Meaning": "Food"
+    },
+    {
+        "Chichewa Phrase": "Madzi",
+        "English Meaning": "Water"
+    },
+    {
+        "Chichewa Phrase": "Malinga",
+        "English Meaning": "According"
+    },
+    {
+        "Chichewa Phrase": "Pano",
+        "English Meaning": "Here"
+    },
+    {
+        "Chichewa Phrase": "Kupeza",
+        "English Meaning": "To find"
+    },
+    {
+        "Chichewa Phrase": "Kumvetsera",
+        "English Meaning": "To listen"
+    },
+    {
+        "Chichewa Phrase": "Kulankhula",
+        "English Meaning": "To speak"
+    },
+    {
+        "Chichewa Phrase": "Kuphunzira",
+        "English Meaning": "To learn"
+    },
+    {
+        "Chichewa Phrase": "Kubwera",
+        "English Meaning": "To come"
+    },
+    {
+        "Chichewa Phrase": "Kuthandiza",
+        "English Meaning": "To help"
+    },
+    {
+        "Chichewa Phrase": "Kuopa",
+        "English Meaning": "To fear"
+    },
+    {
+        "Chichewa Phrase": "Kukumbukira",
+        "English Meaning": "To remember"
+    },
+    {
+        "Chichewa Phrase": "Kugona",
+        "English Meaning": "To sleep"
+    },
+    {
+        "Chichewa Phrase": "Kuyenda",
+        "English Meaning": "To walk"
+    },
+    {
+        "Chichewa Phrase": "Kuthokoza",
+        "English Meaning": "To thank"
+    },
+    {
+        "Chichewa Phrase": "Kukonda",
+        "English Meaning": "To love"
+    },
+    {
+        "Chichewa Phrase": "Chilango",
+        "English Meaning": "Punishment"
+    },
+    {
+        "Chichewa Phrase": "Chifukwa",
+        "English Meaning": "Because"
+    },
+    {
+        "Chichewa Phrase": "Chimwemwe",
+        "English Meaning": "Happiness"
+    },
+    {
+        "Chichewa Phrase": "Mtengo",
+        "English Meaning": "Price"
+    },
+    {
+        "Chichewa Phrase": "Chikondi",
+        "English Meaning": "Love"
+    },
+    {
+        "Chichewa Phrase": "Zaka",
+        "English Meaning": "Years"
+    },
+    {
+        "Chichewa Phrase": "Kuchita",
+        "English Meaning": "To do"
+    },
+    {
+        "Chichewa Phrase": "Kulimba",
+        "English Meaning": "To endure"
+    },
+    {
+        "Chichewa Phrase": "Kukulitsa",
+        "English Meaning": "To improve"
+    },
+    {
+        "Chichewa Phrase": "Kubwerera",
+        "English Meaning": "To return"
+    },
+    {
+        "Chichewa Phrase": "Kutsegula",
+        "English Meaning": "To open"
+    },
+    {
+        "Chichewa Phrase": "Kutseka",
+        "English Meaning": "To close"
+    },
+    {
+        "Chichewa Phrase": "Kukonzekera",
+        "English Meaning": "To prepare"
+    },
+    {
+        "Chichewa Phrase": "Kuwerenga",
+        "English Meaning": "To read"
+    },
+    {
+        "Chichewa Phrase": "Kuimba",
+        "English Meaning": "To sing"
+    },
+    {
+        "Chichewa Phrase": "Kukhulupirira",
+        "English Meaning": "To believe"
+    },
+    {
+        "Chichewa Phrase": "Kutumiza",
+        "English Meaning": "To send"
+    },
+    {
+        "Chichewa Phrase": "Kuseka",
+        "English Meaning": "To laugh"
+    },
+    {
+        "Chichewa Phrase": "Kuyimba",
+        "English Meaning": "To ring"
+    },
+    {
+        "Chichewa Phrase": "Kutsanzika",
+        "English Meaning": "To imitate"
+    },
+    {
+        "Chichewa Phrase": "Kukonzanso",
+        "English Meaning": "To adjust"
+    },
+    {
+        "Chichewa Phrase": "Kugula",
+        "English Meaning": "To buy"
+    },
+    {
+        "Chichewa Phrase": "Kugulitsa",
+        "English Meaning": "To sell"
+    },
+    {
+        "Chichewa Phrase": "Kupuma",
+        "English Meaning": "To rest"
+    },
+    {
+        "Chichewa Phrase": "Kusowa",
+        "English Meaning": "To lack"
+    },
+    {
+        "Chichewa Phrase": "Kusunga",
+        "English Meaning": "To save"
+    },
+    {
+        "Chichewa Phrase": "Kupsa",
+        "English Meaning": "To burn"
+    },
+    {
+        "Chichewa Phrase": "Kulira",
+        "English Meaning": "To cry"
+    },
+    {
+        "Chichewa Phrase": "Kudziwa",
+        "English Meaning": "To know"
+    },
+    {
+        "Chichewa Phrase": "Kukopa",
+        "English Meaning": "To attract"
+    },
+    {
+        "Chichewa Phrase": "Kuyesa",
+        "English Meaning": "To try"
+    },
+    {
+        "Chichewa Phrase": "Kuopa",
+        "English Meaning": "To fear"
+    },
+    {
+        "Chichewa Phrase": "Kuganiza",
+        "English Meaning": "To think"
+    },
+    {
+        "Chichewa Phrase": "Kukambirana",
+        "English Meaning": "To discuss"
+    },
+    {
+        "Chichewa Phrase": "Kusaka",
+        "English Meaning": "To search"
+    },
+    {
+        "Chichewa Phrase": "Kuwopa",
+        "English Meaning": "To frighten"
+    },
+    {
+        "Chichewa Phrase": "Kupitirira",
+        "English Meaning": "To proceed"
+    },
+    {
+        "Chichewa Phrase": "Kupempha",
+        "English Meaning": "To request"
+    },
+    {
+        "Chichewa Phrase": "Kufika",
+        "English Meaning": "To arrive"
+    },
+    {
+        "Chichewa Phrase": "kugona",
+        "English Meaning": "To sleep"
+    },
+    {
+        "Chichewa Phrase": "Kusunga",
+        "English Meaning": "To keep"
+    },
+    {
+        "Chichewa Phrase": "Kutola",
+        "English Meaning": "To pick"
+    },
+    {
+        "Chichewa Phrase": "Kugwira",
+        "English Meaning": "To hold"
+    },
+    {
+        "Chichewa Phrase": "Kuthamangira",
+        "English Meaning": "To run"
+    },
+    {
+        "Chichewa Phrase": "Kudula",
+        "English Meaning": "To cut"
+    },
+    {
+        "Chichewa Phrase": "Kufunsira",
+        "English Meaning": "To ask"
+    },
+    {
+        "Chichewa Phrase": "Kukonzanso",
+        "English Meaning": "To renew"
+    },
+    {
+        "Chichewa Phrase": "Kuchititsa",
+        "English Meaning": "To cause"
+    },
+    {
+        "Chichewa Phrase": "Kufuna",
+        "English Meaning": "To want"
+    },
+    {
+        "Chichewa Phrase": "Kuwona",
+        "English Meaning": "To see"
+    },
+    {
+        "Chichewa Phrase": "Kuwerenga",
+        "English Meaning": "To study"
+    },
+    {
+        "Chichewa Phrase": "Kulemba",
+        "English Meaning": "To write"
+    },
+    {
+        "Chichewa Phrase": "Kulawa",
+        "English Meaning": "To taste"
+    },
+    {
+        "Chichewa Phrase": "Kupambana",
+        "English Meaning": "To win"
+    },
+    {
+        "Chichewa Phrase": "Kuwala",
+        "English Meaning": "To shine"
+    },
+    {
+        "Chichewa Phrase": "Kufulumira",
+        "English Meaning": "To hurry"
+    },
+    {
+        "Chichewa Phrase": "Kukhala",
+        "English Meaning": "To stay"
+    },
+    {
+        "Chichewa Phrase": "Kulira",
+        "English Meaning": "To ring"
+    },
+    {
+        "Chichewa Phrase": "Kusamala",
+        "English Meaning": "To care"
+    },
+    {
+        "Chichewa Phrase": "Kupulumutsa",
+        "English Meaning": "To save"
+    },
+    {
+        "Chichewa Phrase": "Kuzindikira",
+        "English Meaning": "To recognize"
+    },
+    {
+        "Chichewa Phrase": "Kusunga",
+        "English Meaning": "To keep"
+    },
+    {
+        "Chichewa Phrase": "Kukwiyitsa",
+        "English Meaning": "To annoy"
+    },
+    {
+        "Chichewa Phrase": "Kulimbikitsa",
+        "English Meaning": "To encourage"
+    },
+    {
+        "Chichewa Phrase": "Kupereka",
+        "English Meaning": "To give"
+    },
+    {
+        "Chichewa Phrase": "Kugonja",
+        "English Meaning": "To lose"
+    },
+    {
+        "Chichewa Phrase": "Kukhalabe",
+        "English Meaning": "To remain"
+    },
+    {
+        "Chichewa Phrase": "Kuyimira",
+        "English Meaning": "To represent"
+    },
+    {
+        "Chichewa Phrase": "Kuteteza",
+        "English Meaning": "To protect"
+    },
+    {
+        "Chichewa Phrase": "Kusangalala",
+        "English Meaning": "To enjoy"
+    },
+    {
+        "Chichewa Phrase": "Kukakamira",
+        "English Meaning": "To insist"
+    },
+    {
+        "Chichewa Phrase": "Kukwera",
+        "English Meaning": "To climb"
+    },
+    {
+        "Chichewa Phrase": "Kupempha",
+        "English Meaning": "To beg"
+    },
+    {
+        "Chichewa Phrase": "Kusambira",
+        "English Meaning": "To swim"
+    },
+    {
+        "Chichewa Phrase": "Kumvetsera",
+        "English Meaning": "To obey"
+    },
+    {
+        "Chichewa Phrase": "Kukumba",
+        "English Meaning": "To dig"
+    },
+    
+        { "Chichewa Phrase": "Muli bwanji?", "English Meaning": "How are you?" },
+        { "Chichewa Phrase": "Ndili bwino", "English Meaning": "I am fine" },
+        { "Chichewa Phrase": "Zabwino", "English Meaning": "Good" },
+        { "Chichewa Phrase": "Ndikufuna", "English Meaning": "I want" },
+        { "Chichewa Phrase": "Kodi?", "English Meaning": "What about?" },
+        { "Chichewa Phrase": "Tiyambe", "English Meaning": "Let us begin" },
+        { "Chichewa Phrase": "Bwanji?", "English Meaning": "How?" },
+        { "Chichewa Phrase": "Lero", "English Meaning": "Today" },
+        { "Chichewa Phrase": "Mawa", "English Meaning": "Tomorrow" },
+        { "Chichewa Phrase": "Zaka ziwiri", "English Meaning": "Two years" },
+        { "Chichewa Phrase": "Ndimakhala", "English Meaning": "I live" },
+        { "Chichewa Phrase": "Kupita", "English Meaning": "To go" },
+        { "Chichewa Phrase": "Kukonzekera", "English Meaning": "To prepare" },
+        { "Chichewa Phrase": "Chizungu", "English Meaning": "English" },
+        { "Chichewa Phrase": "Zinthu", "English Meaning": "Things" },
+        { "Chichewa Phrase": "Chitani", "English Meaning": "Do it" },
+        { "Chichewa Phrase": "Tiyeni", "English Meaning": "Let’s go" },
+        { "Chichewa Phrase": "Tsopano", "English Meaning": "Now" },
+        { "Chichewa Phrase": "Chabwino", "English Meaning": "Okay" },
+        { "Chichewa Phrase": "Bwanji pa ntchito?", "English Meaning": "How is work?" },
+        { "Chichewa Phrase": "Ndikukhala pa nyumba", "English Meaning": "I am at home" },
+        { "Chichewa Phrase": "Sindikufuna", "English Meaning": "I don’t want" },
+        { "Chichewa Phrase": "Tisinthe", "English Meaning": "Let’s change" },
+        { "Chichewa Phrase": "Kupita kwa", "English Meaning": "Going to" },
+        { "Chichewa Phrase": "Kutsegula chitseko", "English Meaning": "Open the door" },
+        { "Chichewa Phrase": "Ndimayesetsa", "English Meaning": "I’m trying" },
+        { "Chichewa Phrase": "Ndi mwayi", "English Meaning": "It’s good luck" },
+        { "Chichewa Phrase": "Chidwi", "English Meaning": "Surprise" },
+        { "Chichewa Phrase": "Kumbali", "English Meaning": "On the side" },
+        { "Chichewa Phrase": "Pa nthawi", "English Meaning": "On time" },
+        { "Chichewa Phrase": "Muli ndi mwana?", "English Meaning": "Do you have a child?" },
+        { "Chichewa Phrase": "Ndikukumbukira", "English Meaning": "I remember" },
+        { "Chichewa Phrase": "Ndimachita", "English Meaning": "I do" },
+        { "Chichewa Phrase": "Ndikufuna kudya", "English Meaning": "I want to eat" },
+        { "Chichewa Phrase": "Madzimadzi", "English Meaning": "Juice" },
+        { "Chichewa Phrase": "Ndiwe wopenga", "English Meaning": "You are funny" },
+        { "Chichewa Phrase": "Muli bwanji pamodzi?", "English Meaning": "How are you together?" },
+        { "Chichewa Phrase": "Ndikukupemphani", "English Meaning": "I’m asking you" },
+        { "Chichewa Phrase": "Ndimakonda", "English Meaning": "I like" },
+        { "Chichewa Phrase": "Ndimakonda kudzidzima", "English Meaning": "I like to rest" },
+        { "Chichewa Phrase": "Tikufuna kupita", "English Meaning": "We want to go" },
+        { "Chichewa Phrase": "Chifukwa cha chiyani?", "English Meaning": "Why?" },
+        { "Chichewa Phrase": "Basi", "English Meaning": "Enough" },
+        { "Chichewa Phrase": "Ndi mtundu", "English Meaning": "It’s type" },
+        { "Chichewa Phrase": "Mchere", "English Meaning": "Salt" },
+        { "Chichewa Phrase": "Chikondi cha amayi", "English Meaning": "Mother’s love" },
+        { "Chichewa Phrase": "Wachiwiri", "English Meaning": "Twice" },
+        { "Chichewa Phrase": "Pankhani", "English Meaning": "In matter" },
+        { "Chichewa Phrase": "Chidwi chachikulu", "English Meaning": "Big surprise" },
+        { "Chichewa Phrase": "Ndine wokonda", "English Meaning": "I am happy" },
+        { "Chichewa Phrase": "Zokoma", "English Meaning": "Delicious" },
+        { "Chichewa Phrase": "Zikomo", "English Meaning": "Thank you" },
+        { "Chichewa Phrase": "Mwai", "English Meaning": "Goodbye" },
+        { "Chichewa Phrase": "Mfundo", "English Meaning": "Point" },
+        { "Chichewa Phrase": "Mudzakhala bwino", "English Meaning": "You will be fine" },
+        { "Chichewa Phrase": "Kukhala bwino", "English Meaning": "To be well" },
+        { "Chichewa Phrase": "Zikomo kwambiri", "English Meaning": "Thank you very much" },
+        { "Chichewa Phrase": "Ndimakhulupilira", "English Meaning": "I believe" },
+        { "Chichewa Phrase": "Ndikupita", "English Meaning": "I am going" },
+        { "Chichewa Phrase": "Zikuwoneka bwino", "English Meaning": "It looks good" },
+        { "Chichewa Phrase": "Ayi", "English Meaning": "No" },
+        { "Chichewa Phrase": "Inde", "English Meaning": "Yes" },
+        { "Chichewa Phrase": "Ndikufuna kulimbikira", "English Meaning": "I want to try harder" },
+        { "Chichewa Phrase": "Pang'ono", "English Meaning": "A little" },
+        { "Chichewa Phrase": "Moyo", "English Meaning": "Life" },
+        { "Chichewa Phrase": "Ndimachita bwino", "English Meaning": "I am doing well" },
+        { "Chichewa Phrase": "Zandithandiza", "English Meaning": "It helps me" },
+        { "Chichewa Phrase": "Chimwemwe", "English Meaning": "Happiness" },
+        { "Chichewa Phrase": "Chinsinsi", "English Meaning": "Secret" },
+        { "Chichewa Phrase": "Chidziwitso", "English Meaning": "Knowledge" },
+        { "Chichewa Phrase": "Ndi bwino", "English Meaning": "It’s okay" },
+        { "Chichewa Phrase": "Anzanga", "English Meaning": "My friend" },
+        { "Chichewa Phrase": "Kusowa", "English Meaning": "Lack" },
+        { "Chichewa Phrase": "Nthawi", "English Meaning": "Time" },
+        { "Chichewa Phrase": "M'mawa", "English Meaning": "In the morning" },
+        { "Chichewa Phrase": "Chikondi", "English Meaning": "Love" },
+        { "Chichewa Phrase": "Kudziwika", "English Meaning": "To be known" },
+        { "Chichewa Phrase": "Zowawa", "English Meaning": "Pain" },
+        { "Chichewa Phrase": "Kusowa ndalama", "English Meaning": "Lack of money" },
+        { "Chichewa Phrase": "Perekani", "English Meaning": "Give" },
+        { "Chichewa Phrase": "Dziwani", "English Meaning": "Know" },
+        { "Chichewa Phrase": "Kuchita bwino", "English Meaning": "To do well" },
+        { "Chichewa Phrase": "Chowonadi", "English Meaning": "Truth" },
+        { "Chichewa Phrase": "Pamodzi", "English Meaning": "Together" },
+        { "Chichewa Phrase": "Mphamvu", "English Meaning": "Strength" },
+        { "Chichewa Phrase": "Ndikukonda", "English Meaning": "I love you" },
+        { "Chichewa Phrase": "Tithandizeni", "English Meaning": "Help us" },
+        {"Chichewa Phrase": "Kunva", "English Meaning": "To Hear" },
+        
+            { "Chichewa Phrase": "Muli bwanji, mnzanga?", "English Meaning": "How are you, my friend?" },
+            { "Chichewa Phrase": "Ndili bwino, zikomo. Inu?", "English Meaning": "I am fine, thank you. And you?" },
+            { "Chichewa Phrase": "Ndili bwino. Mukuganiza za tsogolo lanu?", "English Meaning": "I am fine. Have you been thinking about your future?" },
+            { "Chichewa Phrase": "Inde, ndili ndi maloto akulu.", "English Meaning": "Yes, I have big dreams." },
+            { "Chichewa Phrase": "Zabwino! Maloto anu ndi otani?", "English Meaning": "That’s great! What are your dreams?" },
+            { "Chichewa Phrase": "Ndikufuna kukhala dokotala kuti ndithandize anthu.", "English Meaning": "I want to become a doctor to help people." },
+            { "Chichewa Phrase": "Zosangalatsa! Mukudziwa zomwe muyenera kuchita?", "English Meaning": "That’s amazing! Do you know what you need to do?" },
+            { "Chichewa Phrase": "Inde, ndikufuna kupeza maphunziro abwino komanso kugwira ntchito molimbika.", "English Meaning": "Yes, I need to get a good education and work hard." },
+            { "Chichewa Phrase": "Ine ndimalota kukhala wamalonda wamkulu.", "English Meaning": "I dream of becoming a great entrepreneur." },
+            { "Chichewa Phrase": "Chabwino! Muli ndi mapulani otani?", "English Meaning": "Nice! What plans do you have?" },
+            { "Chichewa Phrase": "Ndikufuna kuyambitsa bizinesi yokhudza matekinoloje atsopano.", "English Meaning": "I want to start a business in new technologies." },
+            { "Chichewa Phrase": "Mukuganiza kuti tizithandizana bwanji?", "English Meaning": "How do you think we can help each other?" },
+            { "Chichewa Phrase": "Tingagawane malingaliro komanso kulimbikitsana.", "English Meaning": "We can share ideas and motivate each other." },
+            { "Chichewa Phrase": "Zikomo kwambiri chifukwa chondilimbikitsa!", "English Meaning": "Thank you so much for inspiring me!" },
+            { "Chichewa Phrase": "Ndikukhulupirira tidzakhala bwino ngati tigwira ntchito limodzi.", "English Meaning": "I believe we will succeed if we work together." }
+          
+          
+      ]
+      
+   
+
